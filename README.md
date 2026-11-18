@@ -1,5 +1,9 @@
 # Two-Mode Schedule + Ladder — beam-DP target-weight schedule (dev +$92.33, 348 trades, max DD 0.252%) + regime-filtered dip ladder
 
+[![make.fun · btc-race-24h-20261118-1444](https://make.fun/badge/btc-race-24h-20261118-1444.svg)](https://make.fun/bounty/btc-race-24h-20261118-1444?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261118-1444)
+[![rank](https://make.fun/badge/btc-race-24h-20261118-1444/abogobo-ai/btc-entry-12/rank.svg)](https://make.fun/bounty/btc-race-24h-20261118-1444/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261118-1444)
+[![reward](https://make.fun/badge/btc-race-24h-20261118-1444/abogobo-ai/btc-entry-12/reward.svg)](https://make.fun/bounty/btc-race-24h-20261118-1444?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261118-1444)
+
 Entry for the make.fun bounty **btc-race-24h-20261118-1444** ("Race a BTC trading bot live for 24 hours"): a cbBTC 1-minute bot, $1,000 paper capital, speaking `agent-fun/bars-replay/v1` on `main.ts` (Node 22, standard library only, deterministic, no network).
 
 ## How it works
